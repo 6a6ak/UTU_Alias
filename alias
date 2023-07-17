@@ -4,6 +4,6 @@ alias apachelog='tail -50 /var/log/apache2/error_log'
 #Go to alias folder
 alias www='cd /var/www/'
 alias html='cd /var/www/html/'
-alias $USER='/home/$USER/'
-alias home='/home/'
+alias $USER='cd /home/$USER/'
+alias home='cd /home/'
 alias '<-'='cd ..'
