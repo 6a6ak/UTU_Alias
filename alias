@@ -7,3 +7,4 @@ alias html='cd /var/www/html/'
 alias $USER='cd /home/$USER/'
 alias home='cd /home/'
 alias '<-'='cd ..'
+#
