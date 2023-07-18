@@ -2,10 +2,14 @@
 #Apache log
 alias apachelog='tail -50 /var/log/apache2/error_log'
 #Go to alias folder
-alias www='cd /var/www/'
+alias www='cd /var/www/ && ls'
 alias html='cd /var/www/html/'
 alias $USER='cd /home/$USER/'
 alias home='cd /home/'
 alias ..='cd ..'
 alias l0g='cd /var/log/ && ls'
-alias §='cd /'
+alias §='cd / && ls'
+alias repos="cd /home/$USER/git/ && ls"
+alias §="cd  / && ls"
+alias var="cd /var/"
+
