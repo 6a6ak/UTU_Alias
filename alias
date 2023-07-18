@@ -1,4 +1,4 @@
-#aliases
+#aliases add source path on this file to ~/.bashrc like source /home/$USER/aliases
 #Apache log
 alias apachelog='tail -50 /var/log/apache2/error_log'
 #Go to alias folder
