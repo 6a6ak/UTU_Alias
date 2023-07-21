@@ -14,4 +14,5 @@ alias §="cd  / && ls"
 alias var="cd /var/"
 #prv
 alias backend='cd /var/www/html/sentinel/backend/ && ls'
-alias backend='cd /var/www/html/sentinel/frontend/ && ls' 
+alias frontend='cd /var/www/html/sentinel/frontend/ && ls' 
+alias sentinel='cd /var/www/html/sentinel/ && ls' 
