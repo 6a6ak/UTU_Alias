@@ -11,7 +11,4 @@ alias l0g='cd /var/log/ && ls'
 alias §='cd / && ls'
 alias repos="cd /home/$USER/git/ && ls"
 alias var="cd /var/"
-#prv
-alias backend='cd /var/www/html/sentinel/backend/ && ls'
-alias frontend='cd /var/www/html/sentinel/frontend/ && ls' 
-alias sentinel='cd /var/www/html/sentinel/ && ls' 
+
